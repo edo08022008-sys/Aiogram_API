@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram import F, Router
 import aiohttp
 
-API_TOKEN = '5218494224:AAGCrCN70T0Swnp3t4QQa6_EZxLcINhQKMI'
+API_TOKEN = 'API_TOKEN'
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 router = Router()
